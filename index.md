@@ -4,4 +4,5 @@
 
 layout: home
 ---
+
 ![handshake](./assets/images/handshake.jpg)
