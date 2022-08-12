@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   partner with you on your journey to digital excellence. When you work with
   us, you are not just a customer or a client, you are a partner.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://brightwavepartners.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
